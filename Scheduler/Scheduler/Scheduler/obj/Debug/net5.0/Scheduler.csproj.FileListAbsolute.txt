@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Scheduler\Scheduler\bin\Debug\net5.0\Scheduler.exe
+C:\Users\User\source\repos\Scheduler\Scheduler\bin\Debug\net5.0\Scheduler.deps.json
+C:\Users\User\source\repos\Scheduler\Scheduler\bin\Debug\net5.0\Scheduler.runtimeconfig.json
+C:\Users\User\source\repos\Scheduler\Scheduler\bin\Debug\net5.0\Scheduler.runtimeconfig.dev.json
+C:\Users\User\source\repos\Scheduler\Scheduler\bin\Debug\net5.0\Scheduler.dll
+C:\Users\User\source\repos\Scheduler\Scheduler\bin\Debug\net5.0\ref\Scheduler.dll
+C:\Users\User\source\repos\Scheduler\Scheduler\bin\Debug\net5.0\Scheduler.pdb
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.AssemblyInfo.cs
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.dll
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\ref\Scheduler.dll
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.pdb
+C:\Users\User\source\repos\Scheduler\Scheduler\obj\Debug\net5.0\Scheduler.genruntimeconfig.cache
